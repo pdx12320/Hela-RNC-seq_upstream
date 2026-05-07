@@ -1,0 +1,5 @@
+sample_id,condition,replicate,fastq
+AD_01,AD,1,data/AD_01.fastq.gz
+AD_02,AD,2,data/AD_02.fastq.gz
+CTRL_01,control,1,data/CTRL_01.fastq.gz
+CTRL_02,control,2,data/CTRL_02.fastq.gz

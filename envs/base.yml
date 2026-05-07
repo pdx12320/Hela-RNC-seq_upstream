@@ -1,0 +1,10 @@
+name: ont_upstream_base
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - python=3.11
+  - nanoplot
+  - multiqc
+  - chopper
+  - minimap2
+  - samtools
+  - pandas

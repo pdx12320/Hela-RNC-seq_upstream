@@ -1,0 +1,9 @@
+name: ont_isoform
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - python=3.11
+  - isoquant
+  - flair
+  - minimap2
+  - samtools
+  - pandas
