@@ -1,0 +1,7 @@
+name: ont_sqanti3
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - python=3.11
+  - sqanti3
+  - pandas
+  - biopython
